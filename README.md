@@ -6,15 +6,10 @@ Welcome to the Custom Range Slider web page! This application showcases a stylis
 
 ## Table of Contents
 
-- [Preview](#preview)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Design and Styling](#design-and-styling)
 - [Customization](#customization)
-
-## Preview
-
-
 
 ## Technologies Used
 
